@@ -4,6 +4,7 @@ class Book_locators:
     PRICE_LOCATOR = 'article.product_pod p.price-color'
     RATING_LOCATOR = 'article.product_pod p.star-rating'
     ATTRIBUTE_LOCATOR = ''
+    THIS_IS_SECOND = ''
 
     
 
